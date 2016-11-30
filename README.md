@@ -11,3 +11,6 @@ I am excited for the future of software development
 Billy R Roth
 
 www.billyroth.com
+
+"I have not failed. I’ve just found 10,000 ways that won’t work."
+– Thomas Edison
